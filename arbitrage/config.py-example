@@ -1,8 +1,8 @@
 markets = [
 "BitfinexUSD",
-"bitfinexiota",
-"bitfinexiotbtc",
-"bitfinexioteth",
+"Bitfinexiota",
+"Bitfinexiotbtc",
+"Bitfinexioteth",
 ]
 
 # observers if any
